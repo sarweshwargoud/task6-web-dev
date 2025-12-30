@@ -1,4 +1,4 @@
-# Task 7 – Fetch Users with Fetch API
+#  Fetch Users with Fetch API
 
 ## Objective
 Use JavaScript **Fetch API** to get user data from a public API and display it on a webpage.
